@@ -1,6 +1,6 @@
-# 🍵 KitchenAI Kiosk
+# 🍵 KitchenAI 
 
-> **A premium AI-powered recipe assistant kiosk built on Raspberry Pi 5**  
+> **A premium AI-powered recipe assistant  built on Raspberry Pi 5**  
 > Touch + Voice controlled • Apple Glass UI • Step-by-step cooking guidance
 
 ---
@@ -276,6 +276,3 @@ http://YOUR_PI_IP:5173
 
 ---
 
-## 📄 License
-
-MIT License — free to use and modify
